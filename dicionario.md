@@ -20,7 +20,7 @@ finaliidade_emissao
 ## **2.2 filiais (sig)**:
 ```
 id, descrição
-- 1: Via Aroma
+- 1: Via Aroma Matriz (Av. Manoel)
 - 4: Filial Via Aroma 700 (Av. Industrias)
 - 5: Filial Via Aroma 50  (Av João Elustondo)
 - 99: Filial B2C (Av Severo Dulius)
